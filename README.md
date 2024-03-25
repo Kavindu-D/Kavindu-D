@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Kavindu, an AI and Data Science undergraduate at Informatics Institute of Technology affiliated to Robert Gordon University.
+I'm Kavindu, an AI and Data Science undergraduate at Informatics Institute of Technology affiliated to Robert Gordon University, Scotland.
 
 🎓 **Education**:  
 - Currently pursuing a degree in AI and Data Science.
