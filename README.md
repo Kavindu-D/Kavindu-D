@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Kavindu-D/Kavindu-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kavindu, an AI and Data Science undergraduate at Informatics Institute of Technology affiliated to Robert Gordon University.
 
-Here are some ideas to get you started:
+🎓 **Education**:  
+- Currently pursuing a degree in AI and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Interests**:  
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Natural Language Processing
+  
+
+📫 **Reach me**:  
+- LinkedIn: www.linkedin.com/in/kavindu-d
+- Email: kdeshanjana@gmail.com
+
+Feel free to explore my projects and repositories! Don't hesitate to reach out if you want to collaborate or have any questions.
