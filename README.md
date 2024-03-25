@@ -10,7 +10,14 @@ I'm Kavindu, an AI and Data Science undergraduate at Informatics Institute of Te
 - Data Science
 - Machine Learning
 - Natural Language Processing
-  
+
+💼 **Skills**:  
+- Programming Languages: Python, R
+- Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn
+- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
+- Database Management: SQL
+- Web Development: HTML, CSS, JavaScript
+- Version Control: Git, GitHub
 
 📫 **Reach me**:  
 - LinkedIn: www.linkedin.com/in/kavindu-d
